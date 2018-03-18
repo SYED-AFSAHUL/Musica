@@ -1,1 +1,3 @@
-# musica
+# Musica
+
+Music Management System.
